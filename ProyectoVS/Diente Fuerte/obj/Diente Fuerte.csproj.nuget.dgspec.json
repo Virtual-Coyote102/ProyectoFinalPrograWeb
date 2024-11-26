@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj": {}
+    "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj": {
+    "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj",
+        "projectUniqueName": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj",
         "projectName": "Diente Fuerte",
-        "projectPath": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj",
+        "projectPath": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj",
         "packagesPath": "C:\\Users\\Juanv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoVS\\Diente Fuerte\\obj\\",
+        "outputPath": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -61,6 +61,10 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -90,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

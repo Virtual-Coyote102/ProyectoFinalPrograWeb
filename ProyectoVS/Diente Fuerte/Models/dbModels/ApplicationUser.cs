@@ -5,5 +5,6 @@ namespace Diente_Fuerte.Models.dbModels
     public class ApplicationUser : IdentityUser<int>
     {
         public required string Nombre {  get; set; }
+
     }
 }
