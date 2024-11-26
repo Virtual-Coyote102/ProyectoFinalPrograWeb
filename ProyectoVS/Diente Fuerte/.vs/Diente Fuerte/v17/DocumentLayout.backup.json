@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241126185817_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\models\\dbmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +31,20 @@
       "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:models\\dbmodels\\dientefuertecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\diente fuerte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:diente fuerte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\diente fuerte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:diente fuerte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241126185817_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +54,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241126185817_Init.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241126185817_Init.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs",
-              "RelativeToolTip": "Migrations\\20241126185817_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:58:18.066Z",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T22:39:40.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\dbModels\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\dbModels\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:11:01.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DienteFuerteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\DienteFuerteContext.cs",
+              "RelativeDocumentMoniker": "Models\\dbModels\\DienteFuerteContext.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\DienteFuerteContext.cs",
+              "RelativeToolTip": "Models\\dbModels\\DienteFuerteContext.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:05:39.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:54:46.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAtwDEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:23:28.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T07:12:34.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:32:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Diente Fuerte",
               "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj",
               "RelativeDocumentMoniker": "Diente Fuerte.csproj",
@@ -77,71 +163,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Models\\dbModels\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\ApplicationUser.cs",
-              "RelativeToolTip": "Models\\dbModels\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:11:01.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DienteFuerteContext.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\DienteFuerteContext.cs",
-              "RelativeDocumentMoniker": "Models\\dbModels\\DienteFuerteContext.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\DienteFuerteContext.cs",
-              "RelativeToolTip": "Models\\dbModels\\DienteFuerteContext.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:05:39.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:54:46.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:23:28.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-25T07:16:00.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -154,15 +175,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "DocumentIndex": 10,
+              "Title": "20241126185817_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241126185817_Init.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs",
+              "RelativeToolTip": "Migrations\\20241126185817_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T07:12:34.491Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:58:18.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T07:16:00.523Z",
               "EditorCaption": ""
             }
           ]

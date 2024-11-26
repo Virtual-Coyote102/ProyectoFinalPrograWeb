@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Diente Fuerte.5ssrl9savd.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5ssrl9savd"},{"Name":"integrity","Value":"sha256-dQN1VlMyhNg\u002BNeP\u002B1Ds6fMPMef\u002Bm0pI\u002BL8WzPnDhvdg="},{"Name":"label","Value":"_content/Diente Fuerte/Diente Fuerte.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dQN1VlMyhNg\u002BNeP\u002B1Ds6fMPMef\u002Bm0pI\u002BL8WzPnDhvdg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:27:12 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dQN1VlMyhNg\u002BNeP\u002B1Ds6fMPMef\u002Bm0pI\u002BL8WzPnDhvdg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 22:46:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Diente Fuerte/Diente Fuerte.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Diente Fuerte.5ssrl9savd.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dQN1VlMyhNg\u002BNeP\u002B1Ds6fMPMef\u002Bm0pI\u002BL8WzPnDhvdg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dQN1VlMyhNg\u002BNeP\u002B1Ds6fMPMef\u002Bm0pI\u002BL8WzPnDhvdg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:27:12 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dQN1VlMyhNg\u002BNeP\u002B1Ds6fMPMef\u002Bm0pI\u002BL8WzPnDhvdg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 22:46:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Diente Fuerte/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

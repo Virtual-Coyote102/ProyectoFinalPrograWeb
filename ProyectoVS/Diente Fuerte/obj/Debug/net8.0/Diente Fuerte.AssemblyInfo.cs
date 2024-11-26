@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Diente Fuerte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbbd41ffba6c41b8ca7da7d3610631d307b9e7bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9dd1fbee41ed8f9fea62eaae1f23cb8d88d337b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Diente Fuerte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Diente Fuerte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
