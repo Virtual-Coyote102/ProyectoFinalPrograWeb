@@ -5,16 +5,20 @@
       "PackagePath": "staticwebassets\\Diente Fuerte.5ssrl9savd.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\General.css",
+      "PackagePath": "staticwebassets\\css\\General.css"
+    },
+    {
+      "Id": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\Principal.css",
+      "PackagePath": "staticwebassets\\css\\Principal.css"
     },
     {
       "Id": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\Principal.js",
+      "PackagePath": "staticwebassets\\js\\Principal.js"
     },
     {
       "Id": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\LICENSE",

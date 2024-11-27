@@ -3,24 +3,168 @@
   "WorkspaceRootPath": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\migrations\\20241126185817_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:migrations\\20241126185817_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\diente fuerte\\diente fuerte\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:diente fuerte\\diente fuerte\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\migrations\\20241126185817_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:migrations\\20241126185817_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\css\\general.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\css\\general.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\home\\nosotros.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\home\\nosotros.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\views\\home\\contactos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:views\\home\\contactos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\js\\principal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\js\\principal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\wwwroot\\css\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:wwwroot\\css\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\models\\dbmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +185,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|c:\\users\\juanv\\desktop\\uanl\\3er semestre\\progra web\\p\u00E1gina web\\proyectofinalprograweb\\proyectovs\\diente fuerte\\diente fuerte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{45340AC6-22B9-4934-95DA-0C15AE90EE9B}|Diente Fuerte.csproj|solutionrelative:diente fuerte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241126185817_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,50 +194,505 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T07:13:12.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAtwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:23:28.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T01:22:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.esm.js.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:32:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241126185817_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241126185817_Init.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs",
+              "RelativeToolTip": "Migrations\\20241126185817_Init.cs",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAiwKkBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:58:18.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Principal.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Principal.cshtml",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Principal.cshtml",
+              "RelativeToolTip": "Views\\Home\\Principal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T07:12:34.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-26T22:39:40.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Models\\dbModels\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\ApplicationUser.cs",
-              "RelativeToolTip": "Models\\dbModels\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:11:01.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DienteFuerteContext.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\DienteFuerteContext.cs",
-              "RelativeDocumentMoniker": "Models\\dbModels\\DienteFuerteContext.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\DienteFuerteContext.cs",
-              "RelativeToolTip": "Models\\dbModels\\DienteFuerteContext.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:05:39.833Z",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T00:54:53.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "bootstrap.bundle.min.js.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:41.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAH4KAAAAAAAAAAAAAH4KAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T01:22:43.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABrGQIAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:45.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAA6CgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T01:22:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Diente Fuerte\\Diente Fuerte\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "Diente Fuerte\\Diente Fuerte\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Diente Fuerte\\Diente Fuerte\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "Diente Fuerte\\Diente Fuerte\\bootstrap.bundle.min.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAfCgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T01:22:38.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap.bundle.js.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:36.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T01:22:35.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap-utilities.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOWwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:33.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bootstrap-utilities.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAABOBAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T01:22:32.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bootstrap-utilities.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADIigAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:31.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap-utilities.rtl.css",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T01:22:30.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bootstrap-utilities.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlWwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:29.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap-utilities.min.css",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAABNBAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T01:22:27.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap-utilities.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABiwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:25.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T01:22:19.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap-reboot.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB1uAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:18.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABouAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:17.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootstrap-grid.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZkwEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:15.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADz/AEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:11.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADMkgEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:09.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAD9awIAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T01:22:01.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAiwMMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:21:53.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "additional-methods.min.js",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAABWJgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T01:21:51.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAALQEAAAAAAAAAAAiwMQEAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T01:21:43.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241126185817_Init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241126185817_Init.Designer.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241126185817_Init.Designer.cs",
+              "ViewState": "AgIAALsBAAAAAAAAAAAiwMsBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:21:31.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAiwMUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:21:24.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAiwLwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:21:17.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Principal.css",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\Principal.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Principal.css",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\Principal.css",
+              "RelativeToolTip": "wwwroot\\css\\Principal.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T01:03:42.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "General.css",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\General.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\General.css",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\General.css",
+              "RelativeToolTip": "wwwroot\\css\\General.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T01:01:29.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -105,90 +700,86 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:54:46.946Z",
+              "WhenOpened": "2024-11-25T07:54:46.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Principal.js",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\Principal.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Principal.js",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\Principal.js",
+              "RelativeToolTip": "wwwroot\\js\\Principal.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T01:04:07.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAtwDEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:23:28.508Z",
+              "DocumentIndex": 37,
+              "Title": "Nosotros.html",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Nosotros.html",
+              "RelativeDocumentMoniker": "Views\\Home\\Nosotros.html",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Nosotros.html",
+              "RelativeToolTip": "Views\\Home\\Nosotros.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-27T01:09:17.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 38,
+              "Title": "Contactos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Contactos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contactos.cshtml",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Home\\Contactos.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contactos.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T07:12:34.491Z",
+              "WhenOpened": "2024-11-27T01:07:44.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 42,
+              "Title": "DienteFuerteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\DienteFuerteContext.cs",
+              "RelativeDocumentMoniker": "Models\\dbModels\\DienteFuerteContext.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\DienteFuerteContext.cs",
+              "RelativeToolTip": "Models\\dbModels\\DienteFuerteContext.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:32:57.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T08:05:39.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Diente Fuerte",
+              "DocumentIndex": 41,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\dbModels\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Models\\dbModels\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\dbModels\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:11:01.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Diente Fuerte.csproj",
               "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj",
               "RelativeDocumentMoniker": "Diente Fuerte.csproj",
               "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Diente Fuerte.csproj",
               "RelativeToolTip": "Diente Fuerte.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T07:48:03.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T07:48:03.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T07:13:12.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20241126185817_Init.cs",
-              "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241126185817_Init.cs",
-              "ToolTip": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\Migrations\\20241126185817_Init.cs",
-              "RelativeToolTip": "Migrations\\20241126185817_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:58:18.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 43,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\P\u00E1gina Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -196,8 +787,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-25T07:16:00.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:16:00.523Z"
             }
           ]
         }

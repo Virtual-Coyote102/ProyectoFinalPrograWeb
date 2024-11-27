@@ -13,7 +13,7 @@ namespace Diente_Fuerte.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Principal()
         {
             return View();
         }

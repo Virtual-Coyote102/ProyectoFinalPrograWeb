@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m5iKOcCsx5kuwvJt3QeDdXx6rNEBsAiHmiO0J6+CLOs=",
+  "Hash": "Hx1Qt+/m4a80EOFpx62YBw6rMkRnGXjoRh2OrgqQ4Ss=",
   "Source": "Diente Fuerte",
   "BasePath": "_content/Diente Fuerte",
   "Mode": "Default",
@@ -1319,12 +1319,12 @@
       "OriginalItemSpec": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Diente Fuerte.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\General.css",
       "SourceId": "Diente Fuerte",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\",
       "BasePath": "_content/Diente Fuerte",
-      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "RelativePath": "css/General#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1333,11 +1333,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "tq7uoz1znj",
+      "Integrity": "SymqwrhaCAPRAviNqYTehSm7rt7gusWpace+k6fHiBc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\General.css"
+    },
+    {
+      "Identity": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\Principal.css",
+      "SourceId": "Diente Fuerte",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\",
+      "BasePath": "_content/Diente Fuerte",
+      "RelativePath": "css/Principal#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rebnd3tdzi",
+      "Integrity": "fT0pAI2IkEGDlkrZ9e7oXtRJ26fBzAvIQaMZ0W6BR1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Principal.css"
     },
     {
       "Identity": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\favicon.ico",
@@ -1361,12 +1382,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\Principal.js",
       "SourceId": "Diente Fuerte",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\",
       "BasePath": "_content/Diente Fuerte",
-      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "RelativePath": "js/Principal#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1375,11 +1396,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "9gus4jxgbn",
+      "Integrity": "17Z+P4G2nu3s2x9zlHZqO7MVtPcxTdCFxWLACiwm2SA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\js\\Principal.js"
     },
     {
       "Identity": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -2581,8 +2602,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\site.css",
+      "Route": "css/General.css",
+      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\General.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2591,7 +2612,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "1020"
         },
         {
           "Name": "Content-Type",
@@ -2599,56 +2620,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"SymqwrhaCAPRAviNqYTehSm7rt7gusWpace+k6fHiBc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 07:09:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 07:09:13 GMT"
+          "Value": "Wed, 27 Nov 2024 01:02:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2658,7 +2634,134 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-SymqwrhaCAPRAviNqYTehSm7rt7gusWpace+k6fHiBc="
+        }
+      ]
+    },
+    {
+      "Route": "css/General.tq7uoz1znj.css",
+      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\General.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SymqwrhaCAPRAviNqYTehSm7rt7gusWpace+k6fHiBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 01:02:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tq7uoz1znj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/General.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SymqwrhaCAPRAviNqYTehSm7rt7gusWpace+k6fHiBc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Principal.css",
+      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\Principal.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fT0pAI2IkEGDlkrZ9e7oXtRJ26fBzAvIQaMZ0W6BR1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 01:03:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fT0pAI2IkEGDlkrZ9e7oXtRJ26fBzAvIQaMZ0W6BR1s="
+        }
+      ]
+    },
+    {
+      "Route": "css/Principal.rebnd3tdzi.css",
+      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\css\\Principal.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fT0pAI2IkEGDlkrZ9e7oXtRJ26fBzAvIQaMZ0W6BR1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 01:03:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rebnd3tdzi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Principal.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fT0pAI2IkEGDlkrZ9e7oXtRJ26fBzAvIQaMZ0W6BR1s="
         }
       ]
     },
@@ -2685,7 +2788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:46:04 GMT"
+          "Value": "Wed, 27 Nov 2024 01:33:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2730,7 +2833,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:46:04 GMT"
+          "Value": "Wed, 27 Nov 2024 01:33:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2775,7 +2878,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:46:04 GMT"
+          "Value": "Wed, 27 Nov 2024 01:33:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2812,7 +2915,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:46:04 GMT"
+          "Value": "Wed, 27 Nov 2024 01:33:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5129,8 +5232,8 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\site.js",
+      "Route": "js/Principal.9gus4jxgbn.js",
+      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\Principal.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5139,7 +5242,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "174"
         },
         {
           "Name": "Content-Type",
@@ -5147,48 +5250,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"17Z+P4G2nu3s2x9zlHZqO7MVtPcxTdCFxWLACiwm2SA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 07:09:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 25 Nov 2024 07:09:13 GMT"
+          "Value": "Wed, 27 Nov 2024 01:04:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5198,15 +5264,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "9gus4jxgbn"
         },
         {
           "Name": "label",
-          "Value": "js/site.js"
+          "Value": "js/Principal.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-17Z+P4G2nu3s2x9zlHZqO7MVtPcxTdCFxWLACiwm2SA="
+        }
+      ]
+    },
+    {
+      "Route": "js/Principal.js",
+      "AssetFile": "C:\\Users\\Juanv\\Desktop\\UANL\\3er Semestre\\Progra Web\\Página Web\\ProyectoFinalPrograWeb\\ProyectoVS\\Diente Fuerte\\wwwroot\\js\\Principal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"17Z+P4G2nu3s2x9zlHZqO7MVtPcxTdCFxWLACiwm2SA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 01:04:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-17Z+P4G2nu3s2x9zlHZqO7MVtPcxTdCFxWLACiwm2SA="
         }
       ]
     },
